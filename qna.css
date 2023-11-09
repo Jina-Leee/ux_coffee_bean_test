@@ -1,0 +1,49 @@
+#qna {
+  display: none; background: #fff5e4;
+}
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400,500,600,700,800,900;
+    font-style: normal;
+}
+
+.qBox {
+  background-color: #fff5e4;
+  text-align: left;
+  font-size: 1.7em;
+  font-weight: 500;
+  width: 80%;
+  margin: auto;
+  word-break: keep-all;
+}
+
+.answerList {
+  background-color: #ffffff;
+  box-shadow: 4px 5px 5px #d9d9d9;
+  border-radius: 15px;
+  display: block;
+  width: 80%;
+  margin: auto;
+  border: 0px;
+  word-break: keep-all;
+  columns: black;
+  font-size: 1.1em;
+  color: black;
+}
+
+.status {
+  height: 8px;
+  width: 80%;
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 20px;
+  word-break: keep-all;
+}
+
+.statusBar {
+  height: 100%;
+  border-radius: 20px;
+  background-color: #FC3B4D;
+  word-break: keep-all;
+}
